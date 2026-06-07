@@ -82,6 +82,8 @@ softledger-finance-tools/
 │   └── settings.py          # Configuration and constants
 ├── auth/
 │   └── softledger_auth.py   # Authentication handler
+├── middleware
+│   └── softledger_auth.py   # Authentication handler
 ├── scripts/
 │   ├── entity_dashboard.py  # Multi-entity consolidated view
 │   ├── cashflow_forecast.py # Rolling cash flow forecast
